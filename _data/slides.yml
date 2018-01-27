@@ -1,0 +1,20 @@
+# blog page sections
+- name: Slide
+  href: /slides/
+
+- name: 记忆
+  href: /supermem/
+
+# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
+- name: 中文
+  href: /zhongwen/
+
+- name: English
+  href: /english/
+
+- name: Blog
+  href: /blog/
+
+# Don't display donation page: change donation to off at file '_config.yml'
+- name: Donate
+  href: /donate/
