@@ -7,7 +7,6 @@
   href: /blog/
   title: 文章汇总
 
-# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: 记忆
   href: /supermem/
   title: 记忆是学习之母
@@ -21,7 +20,6 @@
   title: 学好英语,贯通中西
 
 
-# Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
   href: /donate/
   title: 我要上火星

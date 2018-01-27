@@ -46,14 +46,12 @@
 
 <br/>
 <div id="backhomepage" >
-					[返回](/slides/)
+					[返回](/)
 					</div>
 
 ---
 
 				{{ content }}
-
----
 
 # 谢谢！
 
@@ -118,6 +116,7 @@
 			window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
 
 			function handleClick(e) {
+                if(e.target.startWith("http"))return;
 				e.preventDefault();
 				if(e.button === 0) Reveal.next();
 				if(e.button === 2) Reveal.prev();
