@@ -11,9 +11,9 @@ img_path: /static/assets/img  # url should be '/homepage/static/assets/img/blog'
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: 升烟  # Be used at blog posts' author.
+  name: 升烟张诚  # Be used at blog posts' author.
   first_name: Ryan  # Be used at index page about me section.
-  last_name: Zhang  # Be used at index page about me section.
+  last_name: ZhangCheng  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: ryanzhang  # Leave blank if you don't have now
   linkedin_id: ryan-zhangcheng # Leave blank if you don't have now
@@ -38,7 +38,7 @@ disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your c
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  # id:
+  id: UA-4672340-5
 
 ## google optimize
 go:
